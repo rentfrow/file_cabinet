@@ -1,0 +1,30 @@
+"""
+File Cabinet - Paper File Organizer
+
+File Structure
+    location - Physical location of file
+    type of file - General category of the file. maybe tags would be a better option?
+    index number - Three letter code with sequential 3 digit number
+    short name - Short description of file (searchable)
+    description - Long description of file (searchable?)
+    age of last update - periodically files need to be cleared out, this will help to keep track.
+    associative key words - words that describe a similar item such as "auto" and "vehicle"
+
+    location - File Type - Index -
+"""
+
+# Start with a simple list of files
+#         Location, Index Num,
+myfiles = {"FIN-001": ["finance", "Bedroom", "Taxes 2009"],
+           "FIN-002": ["finance", "Bedroom", "Wells Fargo Statements 2009"],
+           "FIN-003": ["finance", "Safe", "Life Insurance Policy"],
+           "PER-001": ["personal", "Safe", "Joey's Birth Certificate"],
+           "RCP-001": ["recipes", "Kitchen", "Mac and Cheese"]
+           }
+
+
+def cabinet_open():
+
+# cabinet_open()
+# cabinet_list()
+# cabinet_print()
