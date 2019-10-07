@@ -1,0 +1,79 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1570464913891">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/cygwin64/home/brentfro/scripts/DAQ_to_CSV_file/read_in_test_config/readInConfigTest.py" timestamp="1570460871209">
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="173" column="39" />
+        <mark key="^" line="173" column="39" />
+        <mark key="." line="173" column="39" />
+      </file>
+      <file name="/Python Console" timestamp="1570118542340">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/cygwin64/home/brentfro/scripts/DAQ_to_CSV_file/read_in_test_config/Read_in_cfg_with_yield.py" timestamp="1570119087886">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/file_cabinet/file_cabinet" timestamp="1570464701541">
+        <mark key="[" line="21" column="62" />
+      </file>
+      <file name="C:/cygwin64/home/brentfro/scripts/DAQ_to_CSV_file/read_in_test_config/sensor_classes.py" timestamp="1568994774856">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="49" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="49" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aXBtaXRvb2wgLUkgYm1jIHNlbCBjbGVhcgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aXBtaXRvb2wgLUkgYm1jIHNlbCBjbGVhcgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">c2xlZXAgMTAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aXBtaXRvb2wgLUkgYm1jIHNlbCBlbGlzdAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>des</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
