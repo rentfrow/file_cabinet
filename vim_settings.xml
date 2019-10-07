@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1570464913891">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/cygwin64/home/brentfro/scripts/DAQ_to_CSV_file/read_in_test_config/readInConfigTest.py" timestamp="1570460871209">
+      <file name="C:/cygwin64/home/brentfro/scripts/DAQ_to_CSV_file/read_in_test_config/readInConfigTest.py" timestamp="1570465914069">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="173" column="39" />
         <mark key="^" line="173" column="39" />
@@ -73,6 +73,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
