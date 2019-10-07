@@ -19,7 +19,8 @@ myfiles = {"FIN-001": ["finance", "Bedroom", "Taxes 2009"],
            "FIN-002": ["finance", "Bedroom", "Wells Fargo Statements 2009"],
            "FIN-003": ["finance", "Safe", "Life Insurance Policy"],
            "PER-001": ["personal", "Safe", "Joey's Birth Certificate"],
-           "RCP-001": ["recipes", "Kitchen", "Mac and Cheese"]
+           "RCP-001": ["recipes", "Kitchen", "Mac and Cheese"],
+           "RCP-002": ["recipes", "Kitchen", "World's Best Chili"]
            }
 
 
